@@ -12,7 +12,7 @@ I'm a passionate technology enthusiast with a keen interest in the Internet of T
 - Building a smarter, more connected world through IoT projects.
 
 ## 💼 My Skills
-###  Programming Languages
+### Programming Languages
 - C++
 - Python
 
